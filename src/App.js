@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Docker. Its deployed in Elastic Beanstalk</p>
+        <p>
+          Hello Docker in new branch-feature. Its deployed in Elastic Beanstalk
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
